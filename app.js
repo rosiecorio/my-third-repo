@@ -1,1 +1,2 @@
-let myName = 'Rosie'
+const myName = 'Rosie'
+console.log(myName)
